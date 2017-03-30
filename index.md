@@ -1,7 +1,7 @@
 URISE Talk
 ================
 Rick Gilmore
-2017-03-30 16:05:55
+2017-03-30 16:17:03
 
 <span class="talktitle">Go with the flow: Babies, brains, behavior & open science</span>
 
@@ -128,15 +128,6 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 <img src="img/kiorpes_movshon_04.jpg", height=550px"
 </div>
 
-How Do Children's Brains Respond to Flow?
------------------------------------------
-
--   If infant-like: stronger responses to **fast, linear flows**.
--   If adult-like: stronger responses to **slow, radial flows**.
--   If in-between:
-    -   fast + radial OR
-    -   slow + linear
-
 Brain responses to flow
 -----------------------
 
@@ -148,6 +139,7 @@ Methods
     -   Event-related EEG technique.
     -   Phase-locked responses at low-order harmonics.
 -   n=29 4-8 year-olds.
+-   [(R. Gilmore, Thomas, and Fesi 2016)](http://doi.org/10.1371/journal.pone.0157911)
 
 2 deg/s translation
 -------------------
@@ -193,7 +185,7 @@ Methods
 [Complex Domain Plot of 1F1 Channels](https://raw.githubusercontent.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/figX-complex-domain-plots-pattern-1.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/figX-complex-domain-plots-pattern-1.png" height="500px">
+<img src="https://raw.githubusercontent.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/figX-complex-domain-plots-pattern-1.png" height="450px">
 
 [(R. Gilmore, Thomas, and Fesi 2016)](http://doi.org/10.1371/journal.pone.0157911)
 
@@ -221,7 +213,7 @@ Methods
 [Complex Domain Plot of 3F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/figX-complex-domain-plots-speed-1.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/figX-complex-domain-plots-speed-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/figX-complex-domain-plots-speed-1.png" height="450px">
 
 [(R. Gilmore, Thomas, and Fesi 2016)](http://doi.org/10.1371/journal.pone.0157911)
 
@@ -238,7 +230,7 @@ Results Summary
 -   Anatomical separation of responses
     -   speed (medial)
     -   vs. pattern (lateral)
--   Radial & rotation &lt;&gt; translation, phase & amplitude
+-   Radial & rotation != translation
 -   Speed tuning
 
 [Children's 1F1](https://raw.githubusercontent.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/figX-channel-wise-effects-1.png)
@@ -268,14 +260,6 @@ Results Summary
 <img src="https://raw.githubusercontent.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/figX-channel-wise-effects-1.png" width="800px">
 
 [(R. Gilmore, Thomas, and Fesi 2016)](http://doi.org/10.1371/journal.pone.0157911)
-
-Developmental Effects
----------------------
-
--   Children adult-like in many respects
-    -   Lateral "pattern" responses @ 1F1
-    -   Medial "speed" responses @ 3F1 (and 1F2)
--   Children activate fewer channels
 
 Behavioral responses to flow
 ----------------------------
@@ -540,8 +524,8 @@ sessionInfo()
     ## loaded via a namespace (and not attached):
     ##  [1] backports_1.0.5 magrittr_1.5    rsconnect_0.7   rprojroot_1.2  
     ##  [5] htmltools_0.3.5 tools_3.3.2     yaml_2.1.14     Rcpp_0.12.9    
-    ##  [9] stringi_1.1.2   rmarkdown_1.3   knitr_1.15.1    stringr_1.2.0  
-    ## [13] digest_0.6.12   evaluate_0.10
+    ##  [9] stringi_1.1.2   rmarkdown_1.3   knitr_1.15.1    caTools_1.17.1 
+    ## [13] stringr_1.2.0   digest_0.6.12   bitops_1.0-6    evaluate_0.10
 
 <!-- Scrolling final reference page -->
 <!-- http://stackoverflow.com/q/38260799 -->
