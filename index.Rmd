@@ -93,6 +93,12 @@ Figure from Yu et al., 2010 of MSTd receptive fields.
 These parse the space of different types of optic flow. You can think of them as basic features of flow.
 </div>
 
+---
+
+<div class="centered">
+<img src="http://thebrain.mcgill.ca/flash/a/a_02/a_02_cr/a_02_cr_vis/a_02_cr_vis_3c.jpg" height=400px>
+</div>
+
 ## Why is optic flow important?
 
 - Geometry of environment
