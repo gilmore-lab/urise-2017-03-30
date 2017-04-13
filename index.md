@@ -1,7 +1,7 @@
 URISE Talk
 ================
 Rick Gilmore
-2017-03-30 16:17:03
+2017-04-13 12:20:37
 
 <span class="talktitle">Go with the flow: Babies, brains, behavior & open science</span>
 
@@ -136,7 +136,7 @@ Methods
 
 -   Time-varying optic flow patterns.
 -   Steady-state visual evoked potentials (SSVEPs).
-    -   Event-related EEG technique.
+    -   Event-related electro-encephalogram (EEG) technique.
     -   Phase-locked responses at low-order harmonics.
 -   n=29 4-8 year-olds.
 -   [(R. Gilmore, Thomas, and Fesi 2016)](http://doi.org/10.1371/journal.pone.0157911)
@@ -162,7 +162,6 @@ Methods
 8 deg/s radial
 --------------
 
-<div class="centered">
 <video width="750" height="450" controls>
 <source src="https://nyu.databrary.org/slot/9825/-/asset/11645/download?inline=true" type="video/mp4"> Your browser does not support the video tag.
 </video>
@@ -289,7 +288,10 @@ Methods
 Children's responses *p*(correct)
 ---------------------------------
 
-<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" height=500px>
+<!-- <div class="centered"> -->
+<!-- <img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" height=500px> -->
+
+<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-pattern-speed-plot-1.pdf" height=500px>
 
 Adults' responses *p*(correct)
 ------------------------------
@@ -301,7 +303,7 @@ Adults' responses *p*(correct)
 Speed effects in children
 -------------------------
 
-<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.by.spd.plot-1.png" height=450px>
+<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-by-speed-and-age-plot-1.pdf" height=450px>
 
 Speed effects in adults
 -----------------------
@@ -313,7 +315,7 @@ Speed effects in adults
 Pattern effects in children
 ---------------------------
 
-<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/coh.by.pattern.plot-1.png" height=450px>
+<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-by-pattern-and-age-plot-1.pdf" height=450px>
 
 Pattern effects in adults
 -------------------------
@@ -327,6 +329,8 @@ Behavioral Summary
 
 -   Children's behavior: more accurate to detect **fast** speeds, **radial** patterns
 -   Adults more accurate to detect **slow** speeds, **radial** patterns
+-   Response speeds (not shown) show similar patterns
+-   But, why?
 
 Measuring the statistics of visual experiences
 ----------------------------------------------
@@ -505,7 +509,7 @@ Acknowledgements
 Stack
 -----
 
-This talk was produced in [RStudio](http://rstudio.com) version 1.0.136 on 2017-03-30. The code used to generate the slides can be found at <http://github.com/gilmore-lab/urise-2017-03-30/>. Information about the R Session that produced the code is as follows:
+This talk was produced in [RStudio](http://rstudio.com) version 1.0.136 on 2017-04-13. The code used to generate the slides can be found at <http://github.com/gilmore-lab/urise-2017-03-30/>. Information about the R Session that produced the code is as follows:
 
 ``` r
 sessionInfo()

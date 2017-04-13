@@ -154,7 +154,7 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 
 - Time-varying optic flow patterns.
 - Steady-state visual evoked potentials (SSVEPs).
-    + Event-related EEG technique.
+    + Event-related electro-encephalogram (EEG) technique.
     + Phase-locked responses at low-order harmonics.
 - n=29 4-8 year-olds.
 - [[@gilmore_childrens_2016]](http://doi.org/10.1371/journal.pone.0157911)
@@ -313,8 +313,11 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 
 ## Children's responses *p*(correct)
 
+<!-- <div class="centered"> -->
+<!-- <img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" height=500px> -->
+</div>
 <div class="centered">
-<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" height=500px>
+<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-pattern-speed-plot-1.pdf" height=500px>
 </div>
 
 ## Adults' responses *p*(correct) {.smaller}
@@ -328,7 +331,7 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 ## Speed effects in children
 
 <div class="centered">
-<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.by.spd.plot-1.png" height=450px>
+<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-by-speed-and-age-plot-1.pdf" height=450px>
 </div>
 
 ## Speed effects in adults {.smaller}
@@ -342,7 +345,7 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 ## Pattern effects in children
 
 <div class="centered">
-<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/coh.by.pattern.plot-1.png" height=450px>
+<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-by-pattern-and-age-plot-1.pdf" height=450px>
 </div>
 
 ## Pattern effects in adults {.smaller}
@@ -357,6 +360,8 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 
 - Children's behavior: more accurate to detect **fast** speeds, **radial** patterns
 - Adults more accurate to detect **slow** speeds, **radial** patterns
+- Response speeds (not shown) show similar patterns
+- But, why?
 
 ## Measuring the statistics of visual experiences
 
