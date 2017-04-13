@@ -360,7 +360,7 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 
 - Children's behavior: more accurate to detect **fast** speeds, **radial** patterns
 - Adults more accurate to detect **slow** speeds, **radial** patterns
-- Response speeds (not shown) show similar patterns
+- Response speeds in [children](https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/rt-pattern-speed-plot-1.pdf) and [adults](https://rawgit.com/gilmore-lab/adult-moco-psychophysics/master/analysis/img/plot-rt-1.png) (not shown) show similar patterns
 - But, why?
 
 ## Measuring the statistics of visual experiences
@@ -526,6 +526,24 @@ Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene St
 ---
 
 <div class="centered">
+<img src="img/ferguson-everybody-knows.jpg" width=900px>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41SuUVlLIfL._SX327_BO1,204,203,200_.jpg">
+</div>
+
+---
+
+<div class="centered">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41tpdBq%2BPVL._SX327_BO1,204,203,200_.jpg">
+</div>
+
+---
+
+<div class="centered">
 <img src="img/nature-cancer-repro.jpg" height=500px>
 
 <http://www.nature.com/news/cancer-reproducibility-project-releases-first-results-1.21304>
@@ -541,7 +559,7 @@ Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene St
 
 ---
 
-<iframe src="https://databrary.org">
+<iframe src="https://www.databrary.org">
 </iframe>
 
 ## Let's not waste a good crisis
@@ -555,13 +573,19 @@ Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene St
 
 - [RStudio](https://www.rstudio.com) or [Jupyter](http://jupyter.org) for reproducible notebooks, workflows, analyses, & presentations
 - [GitHub](http://github.com): share flat-files & code, version control
-- PSY 511 Spring 2016 course, <http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017>
+- PSY 511 Spring 2017 course, <http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017>
 
 ## Acknowledgements
 
 *Collaborators*: Karen Adolph (NYU); Jeremy Fesi (U.S. Marine Corps Research); John Franchak (UC-Riverside); Swapnaa Jayaraman (Indiana University); Kari Kretch; Ennio Mingolla, (Northeastern); Florian Raudies (LinkedIn); Amanda Thomas (Swarthmore).
 
 *Support*: NSF BCS-1147440, NSF BCS-1238599, NICHD U01-HD-076595
+
+---
+
+<div class="centered">
+<img src="http://3.bp.blogspot.com/-9d53hDnGULU/Ta7J_fhkTKI/AAAAAAAAAiw/Pi0FFApU9mo/s640/demotivational-posters-trust.jpg" height=500px>
+</div>
 
 ## Stack {.smaller}
 
