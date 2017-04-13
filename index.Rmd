@@ -313,12 +313,10 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 
 ## Children's responses *p*(correct)
 
-<!-- <div class="centered"> -->
-<!-- <img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" height=500px> -->
-</div>
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-pattern-speed-plot-1.pdf" height=500px>
+<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" height=500px>
 </div>
+
 
 ## Adults' responses *p*(correct) {.smaller}
 
@@ -331,7 +329,7 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 ## Speed effects in children
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-by-speed-and-age-plot-1.pdf" height=450px>
+<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.by.spd.plot-1.png" height=450px>
 </div>
 
 ## Speed effects in adults {.smaller}
@@ -345,7 +343,7 @@ Sensitivity to slow (linear) speeds develops slowly in monkeys.
 ## Pattern effects in children
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/child-motion-psychophysics/master/group-analysis-child_files/figure-html/p-corr-by-pattern-and-age-plot-1.pdf" height=450px>
+<img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/coh.by.pattern.plot-1.png" height=450px>
 </div>
 
 ## Pattern effects in adults {.smaller}
@@ -515,11 +513,8 @@ Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene St
 ## Summing up
 
 - Infants commonly experience fast, linear optic flows
-    + Body size, posture, head position/stability
-    + Similar patterns across cultures
 - Brain and behavioral responses to optic flow develop throughout childhood
     + Still immature in 5-8 year-olds
-- Changes in the statistics of experienced optic flow shape brain and behavioral development in infancy, and likely beyond
 
 # Sharing the goodness: Let's make science open
 
@@ -574,12 +569,6 @@ Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene St
 - [RStudio](https://www.rstudio.com) or [Jupyter](http://jupyter.org) for reproducible notebooks, workflows, analyses, & presentations
 - [GitHub](http://github.com): share flat-files & code, version control
 - PSY 511 Spring 2017 course, <http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017>
-
-## Acknowledgements
-
-*Collaborators*: Karen Adolph (NYU); Jeremy Fesi (U.S. Marine Corps Research); John Franchak (UC-Riverside); Swapnaa Jayaraman (Indiana University); Kari Kretch; Ennio Mingolla, (Northeastern); Florian Raudies (LinkedIn); Amanda Thomas (Swarthmore).
-
-*Support*: NSF BCS-1147440, NSF BCS-1238599, NICHD U01-HD-076595
 
 ---
 
